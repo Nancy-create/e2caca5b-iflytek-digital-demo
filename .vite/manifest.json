@@ -6,35 +6,27 @@
       "_rolldown-runtime-S-ySWqyJ.js"
     ]
   },
-  "_link-CD7wh6S2.js": {
-    "file": "assets/link-CD7wh6S2.js",
-    "name": "link",
-    "imports": [
-      "_rolldown-runtime-S-ySWqyJ.js",
-      "virtual:vinext-app-browser-entry",
-      "_framework-CXnKph_e.js"
-    ],
-    "dynamicImports": [
-      "node_modules/vinext/dist/shims/router.js"
-    ]
-  },
   "_rolldown-runtime-S-ySWqyJ.js": {
     "file": "assets/rolldown-runtime-S-ySWqyJ.js",
     "name": "rolldown-runtime"
   },
   "app/HomepageClient.tsx": {
-    "file": "assets/HomepageClient-B-aIK_xC.js",
+    "file": "assets/HomepageClient-Ckx_-U5j.js",
     "name": "HomepageClient",
     "src": "app/HomepageClient.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-S-ySWqyJ.js",
       "app/SiteHeader.tsx",
-      "_framework-CXnKph_e.js"
+      "_framework-CXnKph_e.js",
+      "node_modules/vinext/dist/shims/link.js"
+    ],
+    "css": [
+      "assets/HomepageClient-BeAf1coQ.css"
     ]
   },
   "app/ProductPageReveal.tsx": {
-    "file": "assets/ProductPageReveal-BQ2iWlLs.js",
+    "file": "assets/ProductPageReveal-BPurD_IL.js",
     "name": "ProductPageReveal",
     "src": "app/ProductPageReveal.tsx",
     "isDynamicEntry": true,
@@ -44,18 +36,18 @@
     ]
   },
   "app/SiteHeader.tsx": {
-    "file": "assets/SiteHeader-DqR6K25U.js",
+    "file": "assets/SiteHeader-DPlp1BmN.js",
     "name": "SiteHeader",
     "src": "app/SiteHeader.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-S-ySWqyJ.js",
       "_framework-CXnKph_e.js",
-      "_link-CD7wh6S2.js"
+      "node_modules/vinext/dist/shims/link.js"
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "assets/layout-segment-context-DoaNNad_.js",
+    "file": "assets/layout-segment-context-BIDM7fIr.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -65,8 +57,22 @@
       "_framework-CXnKph_e.js"
     ]
   },
+  "node_modules/vinext/dist/shims/link.js": {
+    "file": "assets/link-DAITL9K4.js",
+    "name": "link",
+    "src": "node_modules/vinext/dist/shims/link.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-CXnKph_e.js"
+    ],
+    "dynamicImports": [
+      "node_modules/vinext/dist/shims/router.js"
+    ]
+  },
   "node_modules/vinext/dist/shims/router.js": {
-    "file": "assets/router-zdSlVB2a.js",
+    "file": "assets/router-CvDwycNm.js",
     "name": "router",
     "src": "node_modules/vinext/dist/shims/router.js",
     "isDynamicEntry": true,
@@ -74,14 +80,14 @@
       "_rolldown-runtime-S-ySWqyJ.js",
       "virtual:vinext-app-browser-entry",
       "_framework-CXnKph_e.js",
-      "_link-CD7wh6S2.js"
+      "node_modules/vinext/dist/shims/link.js"
     ],
     "dynamicImports": [
       "_framework-CXnKph_e.js"
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "assets/index-BZWfBvsx.js",
+    "file": "assets/index-bBiD7K2L.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
@@ -94,7 +100,7 @@
       "virtual:vinext-app-browser-entry",
       "app/HomepageClient.tsx",
       "app/ProductPageReveal.tsx",
-      "_link-CD7wh6S2.js",
+      "node_modules/vinext/dist/shims/link.js",
       "app/SiteHeader.tsx"
     ]
   }
