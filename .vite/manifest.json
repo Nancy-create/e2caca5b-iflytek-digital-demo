@@ -11,7 +11,7 @@
     "name": "rolldown-runtime"
   },
   "app/HomepageClient.tsx": {
-    "file": "assets/HomepageClient-ZuIxmT48.js",
+    "file": "assets/HomepageClient-D_dJv8k0.js",
     "name": "HomepageClient",
     "src": "app/HomepageClient.tsx",
     "isDynamicEntry": true,
@@ -22,7 +22,7 @@
       "node_modules/vinext/dist/shims/link.js"
     ],
     "css": [
-      "assets/HomepageClient-BeAf1coQ.css"
+      "assets/HomepageClient-Dc7EhZJU.css"
     ]
   },
   "app/ProductPageReveal.tsx": {
@@ -36,7 +36,7 @@
     ]
   },
   "app/SiteHeader.tsx": {
-    "file": "assets/SiteHeader-BBSptFzi.js",
+    "file": "assets/SiteHeader-Bru5iKDi.js",
     "name": "SiteHeader",
     "src": "app/SiteHeader.tsx",
     "isDynamicEntry": true,
@@ -47,7 +47,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "assets/layout-segment-context-C7iVGgkG.js",
+    "file": "assets/layout-segment-context-5sw6vypl.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -58,7 +58,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/link.js": {
-    "file": "assets/link-6RpyT2Cc.js",
+    "file": "assets/link-hWVNG3bS.js",
     "name": "link",
     "src": "node_modules/vinext/dist/shims/link.js",
     "isDynamicEntry": true,
@@ -72,7 +72,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/router.js": {
-    "file": "assets/router-5N7Tvshi.js",
+    "file": "assets/router-jVQYMCYE.js",
     "name": "router",
     "src": "node_modules/vinext/dist/shims/router.js",
     "isDynamicEntry": true,
@@ -87,7 +87,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "assets/index-DrAHubne.js",
+    "file": "assets/index-BQOQf2OT.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
