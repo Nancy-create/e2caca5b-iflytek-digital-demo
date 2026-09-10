@@ -1,4 +1,13 @@
 {
+  "_consult-button-BGwINxSU.js": {
+    "file": "assets/consult-button-BGwINxSU.js",
+    "name": "consult-button",
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "_framework-CXnKph_e.js",
+      "node_modules/vinext/dist/shims/link.js"
+    ]
+  },
   "_framework-CXnKph_e.js": {
     "file": "assets/framework-CXnKph_e.js",
     "name": "framework",
@@ -11,13 +20,14 @@
     "name": "rolldown-runtime"
   },
   "app/HomepageClient.tsx": {
-    "file": "assets/HomepageClient-C-bEHR32.js",
+    "file": "assets/HomepageClient-Da2hTklQ.js",
     "name": "HomepageClient",
     "src": "app/HomepageClient.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-S-ySWqyJ.js",
       "app/SiteHeader.tsx",
+      "_consult-button-BGwINxSU.js",
       "_framework-CXnKph_e.js",
       "node_modules/vinext/dist/shims/link.js"
     ],
@@ -26,7 +36,7 @@
     ]
   },
   "app/ProductPageReveal.tsx": {
-    "file": "assets/ProductPageReveal-BPurD_IL.js",
+    "file": "assets/ProductPageReveal-Cndbj3Tc.js",
     "name": "ProductPageReveal",
     "src": "app/ProductPageReveal.tsx",
     "isDynamicEntry": true,
@@ -36,18 +46,19 @@
     ]
   },
   "app/SiteHeader.tsx": {
-    "file": "assets/SiteHeader-DtEwEwIR.js",
+    "file": "assets/SiteHeader-CvxORwP1.js",
     "name": "SiteHeader",
     "src": "app/SiteHeader.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-S-ySWqyJ.js",
+      "_consult-button-BGwINxSU.js",
       "_framework-CXnKph_e.js",
       "node_modules/vinext/dist/shims/link.js"
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "assets/layout-segment-context-CNL9G3jn.js",
+    "file": "assets/layout-segment-context-BmLOrkuw.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -58,7 +69,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/link.js": {
-    "file": "assets/link-rJygxKEA.js",
+    "file": "assets/link-Bf7hIuIQ.js",
     "name": "link",
     "src": "node_modules/vinext/dist/shims/link.js",
     "isDynamicEntry": true,
@@ -72,7 +83,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/router.js": {
-    "file": "assets/router-BBE32_wI.js",
+    "file": "assets/router-DlM3D3em.js",
     "name": "router",
     "src": "node_modules/vinext/dist/shims/router.js",
     "isDynamicEntry": true,
@@ -87,7 +98,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "assets/index-Cnwg0g-z.js",
+    "file": "assets/index-ZGSAn-3X.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
@@ -101,6 +112,7 @@
       "app/HomepageClient.tsx",
       "app/ProductPageReveal.tsx",
       "node_modules/vinext/dist/shims/link.js",
+      "_consult-button-BGwINxSU.js",
       "app/SiteHeader.tsx"
     ]
   }
