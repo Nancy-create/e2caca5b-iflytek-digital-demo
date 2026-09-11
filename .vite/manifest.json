@@ -1,6 +1,6 @@
 {
-  "_consult-button-b5ERVSvY.js": {
-    "file": "assets/consult-button-b5ERVSvY.js",
+  "_consult-button-Dx8yaLtI.js": {
+    "file": "assets/consult-button-Dx8yaLtI.js",
     "name": "consult-button",
     "imports": [
       "_rolldown-runtime-S-ySWqyJ.js",
@@ -20,14 +20,14 @@
     "name": "rolldown-runtime"
   },
   "app/HomepageClient.tsx": {
-    "file": "assets/HomepageClient-BPaHPeEI.js",
+    "file": "assets/HomepageClient-CDE205N7.js",
     "name": "HomepageClient",
     "src": "app/HomepageClient.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-S-ySWqyJ.js",
       "app/SiteHeader.tsx",
-      "_consult-button-b5ERVSvY.js",
+      "_consult-button-Dx8yaLtI.js",
       "_framework-CXnKph_e.js",
       "node_modules/vinext/dist/shims/link.js"
     ],
@@ -46,19 +46,19 @@
     ]
   },
   "app/SiteHeader.tsx": {
-    "file": "assets/SiteHeader-Bq3OgyuM.js",
+    "file": "assets/SiteHeader-BvM34XSC.js",
     "name": "SiteHeader",
     "src": "app/SiteHeader.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-S-ySWqyJ.js",
-      "_consult-button-b5ERVSvY.js",
+      "_consult-button-Dx8yaLtI.js",
       "_framework-CXnKph_e.js",
       "node_modules/vinext/dist/shims/link.js"
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "assets/layout-segment-context-BSqcVLgT.js",
+    "file": "assets/layout-segment-context-DG1PXw1v.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -69,7 +69,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/link.js": {
-    "file": "assets/link-D8s_QgJj.js",
+    "file": "assets/link-hdGdkjU2.js",
     "name": "link",
     "src": "node_modules/vinext/dist/shims/link.js",
     "isDynamicEntry": true,
@@ -83,7 +83,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/router.js": {
-    "file": "assets/router-gwpTK8hD.js",
+    "file": "assets/router-B5IFdHuc.js",
     "name": "router",
     "src": "node_modules/vinext/dist/shims/router.js",
     "isDynamicEntry": true,
@@ -98,7 +98,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "assets/index-D59QSyaU.js",
+    "file": "assets/index-LbDIOzie.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
@@ -112,7 +112,7 @@
       "app/HomepageClient.tsx",
       "app/ProductPageReveal.tsx",
       "node_modules/vinext/dist/shims/link.js",
-      "_consult-button-b5ERVSvY.js",
+      "_consult-button-Dx8yaLtI.js",
       "app/SiteHeader.tsx"
     ]
   }
